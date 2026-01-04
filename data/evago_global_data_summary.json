@@ -1,0 +1,145 @@
+{
+  "datasets_generated": 11,
+  "date_range": "2023-01-01 to 2024-12-31",
+  "total_records": 1413754,
+  "files_created": [
+    "google_analytics",
+    "google_ads",
+    "seo_keywords",
+    "social_media",
+    "competitor_analysis",
+    "conversion_funnel",
+    "device_performance",
+    "campaign_performance",
+    "geographic_performance",
+    "time_series",
+    "mojo_acquisition_impact"
+  ],
+  "evago_locations": {
+    "Germany": {
+      "cities": [
+        "Berlin",
+        "Hamburg",
+        "Munich",
+        "Frankfurt",
+        "Cologne"
+      ],
+      "type": "Primary Market",
+      "mojo_integration": true
+    },
+    "Netherlands": {
+      "cities": [
+        "Amsterdam",
+        "Rotterdam",
+        "The Hague"
+      ],
+      "type": "Primary Market",
+      "mojo_integration": true
+    },
+    "England": {
+      "cities": [
+        "London",
+        "Manchester"
+      ],
+      "type": "Primary Market",
+      "mojo_integration": true
+    },
+    "North America": {
+      "cities": [
+        "New York",
+        "Los Angeles",
+        "Toronto",
+        "Vancouver"
+      ],
+      "type": "Expansion Market",
+      "mojo_integration": false
+    },
+    "Australia": {
+      "cities": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "type": "Expansion Market",
+      "mojo_integration": false
+    },
+    "Croatia": {
+      "cities": [
+        "Zagreb",
+        "Split",
+        "Rijeka"
+      ],
+      "type": "Primary Market",
+      "mojo_integration": true
+    }
+  },
+  "distribution_offices": [
+    "Singapore",
+    "Dubai",
+    "Hong Kong",
+    "Tokyo",
+    "Mumbai",
+    "S\u00e3o Paulo",
+    "Mexico City",
+    "Cape Town",
+    "Stockholm",
+    "Warsaw",
+    "Prague",
+    "Vienna"
+  ],
+  "mojo_acquisition_date": "2023-06-01T00:00:00",
+  "campaigns": [
+    "EVAGO Event Infrastructure",
+    "EVAGO Crowd Control",
+    "EVAGO Construction Safety",
+    "EVAGO Festival Equipment",
+    "EVAGO Corporate Events",
+    "EVAGO Sports Events",
+    "Mojo-EVAGO Joint Events",
+    "Mojo Equipment Integration",
+    "EVAGO-Mojo Partnership",
+    "Unified Rental Solutions",
+    "Mojo Legacy Support",
+    "EVAGO-Mojo Brand Transition"
+  ],
+  "keywords": [
+    "Absperrgitter mieten",
+    "event barrier hire",
+    "crowd control barriers",
+    "festival fencing",
+    "construction barriers",
+    "safety barriers",
+    "event infrastructure",
+    "temporary fencing",
+    "barrier rental",
+    "crowd management",
+    "event security",
+    "temporary barriers",
+    "mojo rental",
+    "mojo event equipment",
+    "mojo barrier hire",
+    "mojo crowd control",
+    "mojo festival equipment",
+    "mojo construction barriers",
+    "evago mojo rental",
+    "evago mojo barriers",
+    "evago mojo events",
+    "unified event rental",
+    "evago mojo partnership",
+    "mojo evago integration"
+  ],
+  "seo_sea_metrics_covered": [
+    "CTR (Click-Through Rate)",
+    "KPIs (Key Performance Indicators)",
+    "Organic Traffic",
+    "Click-through Rates",
+    "Keyword Performance",
+    "ROAS (Return on Ad Spend)",
+    "CPC (Cost Per Click)",
+    "Conversion Rates",
+    "Bounce Rate",
+    "Session Duration",
+    "Market Share",
+    "Brand Awareness"
+  ]
+}
