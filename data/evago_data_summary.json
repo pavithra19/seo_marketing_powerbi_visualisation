@@ -1,0 +1,17 @@
+{
+  "datasets_generated": 10,
+  "date_range": "2023-01-01 to 2024-12-31",
+  "total_records": 202487,
+  "files_created": [
+    "google_analytics",
+    "google_ads",
+    "seo_keywords",
+    "social_media",
+    "competitor_analysis",
+    "conversion_funnel",
+    "device_performance",
+    "campaign_performance",
+    "geographic_performance",
+    "time_series"
+  ]
+}
